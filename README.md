@@ -4,7 +4,7 @@
 
 This project was to take an excisting piece of code and to refactor it to make it more accessible and also to tidy up the associated CSS file so that it is more consolidated. Accessibility is not only important for search engine optimisation (SEO), but to make the website accessible to everyone. Accessibility was enhanced by using semantic tags where it made sense to do so. Through this exercice I learnt what makes a website more accessible and discovered online tools that helped with validating this.
 
-The URL for the application is: https://046159.github.io/challenge1/
+The URL for the application is: https://046159.github.io/01-Horiseon/
 
 ## Change History
 
